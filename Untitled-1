@@ -1,0 +1,22 @@
+[
+    {
+        "acronym": "IMO",
+        "phrase": "Intelligent Medical Objects",
+    },
+    {
+        "acronym": "FHIR",
+        "phrase": "Fast Healthcare Interoperability Resources",
+    },
+    {
+        "acronym": "DRG",
+        "phrase": "Disease Related Group",
+    },
+    {
+        "acronym": "RVU",
+        "phrase": "Relative Value Unit",
+    },
+    {
+        "acronym": "HCC",
+        "phrase": "Hierarchical Condition Category",
+    },
+]
